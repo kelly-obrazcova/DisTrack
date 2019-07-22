@@ -1,0 +1,141 @@
+/*
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  
+    overflow: visible !important;
+
+  background: -webkit-linear-gradient(45deg,  #4f991d 10%, #304e2d 90%,);
+    background: -moz-linear-gradient(45deg, #4f991d 10%, #304e2d 90%);
+    background: -ms-linear-gradient(45deg, #4f991d 10%, #304e2d 90%);
+    background: -o-linear-gradient(45deg, #4f991d 10%, #304e2d 90%);
+    background: linear-gradient(45deg,#4f991d 10%,  #304e2d 90%);
+   
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(236, 247, 93);
+  font-family: 'Exo', serif;
+  text-shadow: 1px 1px 3px #304e2d;
+}
+
+.App-link {
+  color: #fa4077;
+  text-decoration: none;
+  font-family: 'Cinzel', serif;
+  text-shadow: 2px 2px 5px #681b32;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  
+    overflow: visible !important;
+
+  background: -webkit-linear-gradient(45deg,  #4f991d 10%, #304e2d 90%,);
+    background: -moz-linear-gradient(45deg, #4f991d 10%, #304e2d 90%);
+    background: -ms-linear-gradient(45deg, #4f991d 10%, #304e2d 90%);
+    background: -o-linear-gradient(45deg, #4f991d 10%, #304e2d 90%);
+    background: linear-gradient(45deg,#4f991d 10%,  #304e2d 90%);
+   
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(236, 247, 93);
+  font-family: 'Exo', serif;
+  text-shadow: 1px 1px 3px #304e2d;
+}
+
+.App-link {
+  color: #fa4077;
+  text-decoration: none;
+  font-family: 'Cinzel', serif;
+  text-shadow: 2px 2px 5px #681b32;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  
+    overflow: visible !important;
+
+  background: -webkit-linear-gradient(45deg,  #eeeeee 10%, #aaaaaa 90%);
+    background: -moz-linear-gradient(45deg, #eeeeee 10%, #aaaaaa 90%);
+    background: -ms-linear-gradient(45deg, #eeeeee 10%, #aaaaaa 90%);
+    background: -o-linear-gradient(45deg, #eeeeee 10%, #aaaaaa 90%);
+    background: linear-gradient(45deg, #eeeeee 10%,  #aaaaaa 90%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #555555;
+  font-family: 'Exo', serif;
+  text-shadow: 1px 1px 1px black;
+}
+
+.App-link {
+  color: #444444;
+  text-decoration: none;
+  font-family: 'Cinzel', serif;
+  text-shadow: 2px 2px 3px black;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
